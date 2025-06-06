@@ -1,4 +1,4 @@
-# **Stateless Chatbot**
+# **Stateless Chatbot on Terminal**
 
 This project integrates the **Bolt IoT ChatGPT API**.
 The Chatbot responses to user queries continuously.
